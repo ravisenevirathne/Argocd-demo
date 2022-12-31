@@ -1,4 +1,7 @@
 # Deploying Argocd and application to minikube cluster
+ArgoCd is a continuous delivery tool with GitOps principles that can use to easily deploy applications to Kubernetes clusters. With ArgoCd application deployment, it can track the git repository status and can apply necessary changes to application deployment. It compares desired configuration in the Git repo with the actual state in the Kubernetes cluster. So Git repo remains as the single source of truth for the cluster.
+<br>
+<br>
 
 Create a new minikube cluster
 ```
