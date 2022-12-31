@@ -56,6 +56,7 @@ NAME                     SYNC STATUS   HEALTH STATUS
 myapp-argo-application   Synced        Healthy
 ```
 Now Application is visible on ArgoCD portal and you can click on each item send any commands or to view more details.
+<img width="1444" alt="image" src="https://user-images.githubusercontent.com/85973309/210125491-9652a2f6-9e06-4d60-a9f7-a7e11f1dde9f.png">
 
 
 Once you finish stop and delete the minikube cluster
